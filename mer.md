@@ -1,12 +1,14 @@
-# Det finns mer 💪
+”Slides”: https://github.com/PEZ/freecode-meetup
+
+---
 
 ## Måste se:
+
 * Rafal Dittwald - Solving Problems the Clojure Way: https://www.youtube.com/watch?v=vK1DazRK_a0
 
 ## Clojure
 
-* https://clojure.org
-    * https://ask.clojure.org
+* https://clojure.org • https://ask.clojure.org
 * ClojureDocs – https://clojuredocs.org/
 * ClojureScript – https://clojurescript.org
 * Aktiv community:
@@ -21,6 +23,8 @@
 
 * https://calva.io
 * Getting Started REPL – https://calva.io/getting-started
+
+## 
 
 ---
 

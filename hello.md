@@ -1,15 +1,19 @@
 # FreeCode Meetup 24 Mars 2021
 
 Peter Strömberg - https://github.com/PEZ
-* Jobb: Kodar mobilappar i ClojureScript
+* Jobb: Hackar hälsa på Pilloxa: Mobilapp i ClojureScript
 * Fritid: Familj och kodar
 
 ## Agenda
+
+Tema: _Utvecklarergonomi_
 
 * Clojure
 * Calva (VS Code Extension)
 * Apputveckling med ClojureScript
 * AMA
+
+”Slides”, etcetera: https://github.com/PEZ/freecode-meetup
 
 ---
 
