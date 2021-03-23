@@ -1,8 +1,8 @@
 # Clojure
 
-Världens mest ergonomiska programmeringsspråk?
+## Världens mest ergonomiska programmeringsspråk?
 
-<div style="display: flex; flex-direction: row; justify-content: space-between; align-items: center;">
+<div style="display: flex; flex-direction: row; justify-content: space-between;">
 
 <div>
 
@@ -24,8 +24,10 @@ Världens mest ergonomiska programmeringsspråk?
     * Gör en sak – gör den bra
     * Ramverksnoja
     * Stabila APIer (kulturellt arv)
-* ”Riktiga” makron
+* Strukturell kod
+    * Kod är data
     * Homoikoniskt
+    * ”Riktiga” makron
 
 </div>
 

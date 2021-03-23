@@ -15,7 +15,7 @@
     * https://www.reddit.com/r/Clojure/
 
 ### Clojurisk JS
-* Ramdjs: https://ramdajs.com
+* RamdaJS: https://ramdajs.com
 
 ## Calva
 

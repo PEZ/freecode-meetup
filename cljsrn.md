@@ -1,6 +1,6 @@
 # Ergonomisk apputveckling
  
-<div style="display: flex; flex-direction: row; justify-content: space-between; align-items: center;">
+<div style="display: flex; flex-direction: row; justify-content: space-between;">
 
 <div>
 
@@ -14,8 +14,20 @@
 * Färdig mall – https://github.com/PEZ/rn-rf-shadow
 </div>
 
+<div style="display: flex; align-items: flex-start;">
+
+<div style="display: flex; align-items: center;">
+
 ![](cljs.png)
+
+<div style="width: 40px;">&nbsp;</div>
+
 ![](shadow-cljs.png)
+
+</div>
+
+</div>
+
 </div>
 
 ---
