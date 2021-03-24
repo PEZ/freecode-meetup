@@ -1,10 +1,15 @@
-”Slides”: https://github.com/PEZ/freecode-meetup
+https://github.com/PEZ/freecode-meetup
 
 ---
 
+<div style="display: flex; flex-direction: row;">
+
+<div style="display: flex; flex-direction: column; flex: 6;">
+
+
 ## Måste se:
 
-* Rafal Dittwald - Solving Problems the Clojure Way: https://www.youtube.com/watch?v=vK1DazRK_a0
+* Rafal Dittwald - Solving Problems the Clojure Way: <br> https://www.youtube.com/watch?v=vK1DazRK_a0
 
 ## Clojure
 
@@ -25,6 +30,15 @@
 * Getting Started REPL – https://calva.io/getting-started
 
 ## 
+
+</div>
+
+<div style="display: flex; justify-content: space-around; flex: 3;">
+  <div style="display: flex; flex-direction: column; justify-content: space-around; align-items: center;">
+    <img src="clj.png" width="500"/>
+  </div>
+</div>
+</div>
 
 ---
 

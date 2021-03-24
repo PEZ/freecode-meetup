@@ -19,8 +19,8 @@ Calva fyller tre år typ idag 🎉 🍰
 * Pretty printing
 * Skapa egna REPL-kommandon
 * Unikt för Calva: Getting Started REPL – https://calva.io/getting-started
+* Under aktiv utveckling. Bus Factor: 2
 
-Under aktiv utveckling. Bus Factor: 2
 
 ---
 
