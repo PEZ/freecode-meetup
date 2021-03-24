@@ -7,6 +7,10 @@
 <div>
 
 * Pragmatiskt och praktiskt 
+* Gästspråk
+    * JVM
+    * JavaScript VM
+    * CLR
 * Interaktiv programmering
     * REPL inkopplad i det körande programmet som utvecklas
     * Dynamiskt – modifiera programmet medans det kör
